@@ -1,9 +1,7 @@
 
 
 
-<h2 align="center"> Oasis Infobyte Internship</br>WEB-DEVELOPMENT-JULY24 </h2>
-
-### [+] TASK 2 :
+<h2 align="center"> PERSONAL PORTFOLIO </h2>
 
 - A Portfolio With the help of HTML CSS JS
 
@@ -15,7 +13,8 @@
 
 ### [+] Find me on :
 
-<a href="https://www.linkedin.com/in/simran-upadhyay26" target="_blank"><img src="https://img.shields.io/badge/LinkedIN-simran-upadhyay26-blue?style=for-the-badge&logo=linkedin"></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-SIMRANUPADHYAY26-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/simran-upadhyay26)
+
 
 <a href="mailto:simranupadhyay17@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-simranupadhyay17-blue?style=for-the-badge&logo=gmail"></a>
 
