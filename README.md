@@ -15,9 +15,9 @@
 
 ### [+] Find me on :
 
-<a href="https://www.linkedin.com/in/simran-upadhyay26" target="_blank"><img src="https://img.shields.io/badge/LinkedIN-AS2509X-blue?style=for-the-badge&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/simran-upadhyay26" target="_blank"><img src="https://img.shields.io/badge/LinkedIN-simran-upadhyay26-blue?style=for-the-badge&logo=linkedin"></a>
 
-<a href="mailto:simranupadhyay17@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-aparnasingh2509-blue?style=for-the-badge&logo=gmail"></a>
+<a href="mailto:simranupadhyay17@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-simranupadhyay17-blue?style=for-the-badge&logo=gmail"></a>
 
 </br>
 
